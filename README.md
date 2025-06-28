@@ -48,6 +48,7 @@ pip install .
 ## (Optional) Venv with pyrealsense2
 
 ```bash
+sudo apt-get install python3-venv
 mkdir ~/librealsense/venv
 python3 -m venv ~/librealsense/venv
 . ~/librealsense/venv/bin/activate
