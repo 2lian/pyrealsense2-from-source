@@ -38,7 +38,7 @@ cp ~/librealsense/build/Release/librealsense2.so ~/librealsense/wrappers/python/
 python3 ~/librealsense/wrappers/python/find_librs_version.py ~/librealsense/ ~/librealsense/wrappers/python/pyrealsense2/
 ```
 
-Your python package is ready to be installed at: '~/librealsense/wrappers/python/'
+Your python package is ready to be installed at: `~/librealsense/wrappers/python/`
 
 Install it, possibly after activating a venv:
 ```bash
