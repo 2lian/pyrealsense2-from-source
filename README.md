@@ -4,6 +4,7 @@ Quick guide to build `pyrealsense2` from source for systems where binaries (`pip
 
 Original documentation:
 - https://dev.intelrealsense.com/docs/compiling-librealsense-for-linux-ubuntu-guide
+  - The step 'Build and apply patched kernel modules' is not performed by this guide, perform it according to your needs.
 - https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python
 
 ## Updates, dependencies and cloning
